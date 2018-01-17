@@ -1,0 +1,4 @@
+#define VERSION_MAJOR @pgspin_VERSION_MAJOR@
+#define VERSION_MINOR @pgspin_VERSION_MINOR@
+
+
